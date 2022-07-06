@@ -29,7 +29,7 @@
   global.botname = 'SychoBot©️' // Ganti Jadi Nama Botmu
   global.packname = 'SychoBot©️' // Sticker Weem
   global.author = 'Nanang©️' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
+  global.webme = 'https://a.top4top.io/p_23779qtrw1.jpg' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://saweria.co/nanang13?utm_source=Nanang13&utm_medium=Nanang13' // Ganti Sama Link Yt Mu
