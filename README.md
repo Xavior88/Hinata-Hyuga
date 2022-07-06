@@ -85,8 +85,8 @@ global.instagram = 'https://instagram.com/riychdwayne'
 </p>
 
 ## Donate
-- [Dana](https://saweria.co/nanang13)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Saweria](https://saweria.co/nanang13)
+- [Shoppepay](https://g.top4top.io/p_2378szdmu0.png)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
